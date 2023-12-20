@@ -1,0 +1,323 @@
+{
+	"images": [
+		{
+			"name": "eye_attack",
+			"path": "./assets/images/Flying_eye/Attack.png",
+			"width": 900,
+			"height": 150
+		},
+		{
+			"name":"eye_death",
+			"path": "./assets/images/Flying_eye/Death.png",
+			"width": 600,
+			"height": 150
+		},
+		{
+			"name": "eye_flight",
+			"path": "./assets/images/Flying_eye/Flight.png",
+			"width": 1200,
+			"height": 150
+		},
+		{
+			"name": "eye_projectile",
+			"path": "./assets/images/Flying_eye/projectile_sprite.png",
+			"width": 384,
+			"height": 48
+		},
+		{
+			"name": "eye_spin",
+			"path": "./assets/images/Flying_eye/Spin_attack.png",
+			"width": 1200,
+			"height": 150
+		},
+		{
+			"name": "eye_hit",
+			"path": "./assets/images/Flying_eye/Take_hit.png",
+			"width": 600,
+			"height": 150
+		},
+		{
+			"name": "goblin",
+			"path": "./assets/images/Goblin/Attack.png",
+			"width": 1800,
+			"height": 150
+		},
+		{
+			"name": "mushroom",
+			"path": "./assets/images/Mushroom/Attack.png",
+			"width": 1650,
+			"height": 150
+		},
+		{
+			"name": "skeleton_idle",
+			"path": "./assets/images/Skeleton/Idle.png",
+			"width": 600,
+			"height": 150
+
+		},
+		{
+			"name": "skeleton_death",
+			"path": "./assets/images/Skeleton/Death.png",
+			"width": 600,
+			"height": 150
+		},
+		{
+			"name": "skeleton_shield",
+			"path": "./assets/images/Skeleton/Shield.png",
+			"width": 600,
+			"height": 150
+		},
+		{
+			"name": "skeleton_throw",
+			"path": "./assets/images/Skeleton/Throw.png",
+			"width": 900,
+			"height": 150
+		},
+		{
+			"name": "skeleton_thrown_sword",
+			"path": "./assets/images/Skeleton/Sword_sprite.png",
+			"width": 736,
+			"height": 102
+		},
+		{
+			"name": "skeleton_walk",
+			"path": "./assets/images/Skeleton/Walk.png",
+			"width": 600,
+			"height": 150
+		},
+		{
+			"name": "skeleton_attack",
+			"path": "./assets/images/Skeleton/Attack.png",
+			"width": 1200,
+			"height": 150
+		},
+		{
+			"name": "skeleton_hurt",
+			"path": "./assets/images/Skeleton/Take_hit.png",
+			"width": 600,
+			"height": 150
+		},
+		{
+			"name": "player_idle",
+			"path": "./assets/images/Player/Idle.png",
+			"width": 256,
+			"height": 256
+		},
+		{
+			"name": "player_roll",
+			"path": "./assets/images/Player/Slide.png",
+			"width": 512,
+			"height": 192
+		},
+		{
+			"name": "player_pray",
+			"path": "./assets/images/Player/Pray.png",
+			"width": 512,
+			"height": 192
+		},
+		{
+			"name": "player_heal",
+			"path": "./assets/images/Player/Health.png",
+			"width": 256,
+			"height": 256
+		},
+		{
+			"name": "player_attack",
+			"path": "./assets/images/Player/Attacks.png",
+			"width": 1024,
+			"height": 320
+		},
+		{
+			"name": "player_jump",
+			"path": "./assets/images/Player/Jump.png",
+			"width": 256,
+			"height": 256
+		},
+		{
+			"name": "player_walk",
+			"path": "./assets/images/Player/Run.png",
+			"width": 256,
+			"height": 256
+		},
+		{
+			"name": "player_fall",
+			"path": "./assets/images/Player/Roll.png",
+			"width": 256,
+			"height": 128
+		},
+		{
+			"name": "player_death",
+			"path": "./assets/images/Player/Death.png",
+			"width": 256,
+			"height": 128
+		},
+		{
+			"name": "player_hurt",
+			"path": "./assets/images/Player/Hurt.png",
+			"width": 256,
+			"height": 128
+		},
+		{
+			"name": "tiles",
+			"path": "./assets/images/Tilesets/cave_tiles.png",
+			"width": 1024,
+			"height": 1024
+		},
+		{
+			"name": "boss_spawn",
+			"path": "./assets/images/Hell_Beast/with-stroke/hell-beast-burn.png",
+			"width": 444,
+			"height": 160
+		},
+		{
+			"name":"boss",
+			"path": "./assets/images/Demon_Slime/spritesheets/demon_slime.png",
+			"width": 6336,
+			"height": 800
+		}
+
+	],
+	"fonts": [
+		{
+			"name": "Dungeon",
+			"path": "./assets/fonts/DungeonFont.ttf"
+		},
+		{
+			"name": "Pixeloid",
+			"path": "./assets/fonts/Pixeloid.ttf"
+		},
+		{
+			"name": "Compass",
+			"path": "./assets/fonts/CompassPro.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "Step",
+			"path": "./assets/sounds/sfx/Player_Movement_SFX/Cling_climb.wav",
+			"size": 1,
+			"volume": 0.3
+		},
+		{
+			"name": "Jump",
+			"path": "./assets/sounds/sfx/Player_Movement_SFX/30_Jump_03.wav",
+			"size": 2,
+			"volume": 0.3
+		},
+		{
+			"name": "Land",
+			"path": "./assets/sounds/sfx/Player_Movement_SFX/Landing.wav",
+			"size": 3,
+			"volume": 0.5
+		},
+		{
+			"name": "Hurt",
+			"path": "./assets/sounds/sfx/Battle_SFX/03_Claw_03.wav",
+			"size": 3,
+			"volume": 0.5
+		},
+		{
+			"name": "Heal",
+			"path": "./assets/sounds/sfx/Buffs_Heals_SFX/02_Heal_02.wav",
+			"size": 5,
+			"volume": 0.15
+		},
+		{
+			"name": "Sword_Hit",
+			"path": "./assets/sounds/sfx/Battle_SFX/08_Bite_04.wav",
+			"size": 2,
+			"volume": 0.15
+		},
+		{
+			"name":"Sword_Swing",
+			"path": "./assets/sounds/sfx/Battle_SFX/35_Miss_Evade_02.wav",
+			"size": 3,
+			"volume": 0.15
+		},
+		{
+			"name": "Slide",
+			"path": "./assets/sounds/sfx/UI_Menu_SFX/070_Equip_10.wav",
+			"size": 2,
+			"volume": 0.15
+		},
+		{
+			"name": "Enemy_Death",
+			"path": "./assets/sounds/sfx/Battle_SFX/69_Enemy_Death_01.wav",
+			"size": 2,
+			"volume": 0.15
+		},
+		{
+			"name": "Player_Death",
+			"path": "./assets/sounds/sfx/Player_Movement_SFX/52_Dive_02.wav",
+			"size": 1,
+			"volume": 0.15
+		},
+		{
+			"name":"Boss_Fight",
+			"path": "./assets/sounds/soundtrack/exploring.wav",
+			"size": 1,
+			"volume": 0.025,
+			"loop": true
+		},
+		{
+			"name":"Cave_Theme",
+			"path": "./assets/sounds/soundtrack/dungeon.wav",
+			"size": 1,
+			"volume": 0.025,
+			"loop": true
+		},
+		{
+			"name": "Credits_Theme",
+			"path": "./assets/sounds/soundtrack/title.wav",
+			"size": 1,
+			"volume": 0.025,
+			"loop": true
+		},
+		{
+			"name": "Village_Theme",
+			"path": "./assets/sounds/soundtrack/finale.wav",
+			"size": 1,
+			"volume": 0.025,
+			"loop": true
+		},
+		{
+			"name": "Victory_Theme",
+			"path": "./assets/sounds/soundtrack/rest.wav",
+			"size": 1,
+			"volume": 0.025,
+			"loop": true
+		},
+		{
+			"name": "Hover",
+			"path": "./assets/sounds/sfx/UI_Menu_SFX/001_Hover_01.wav",
+			"size": 2,
+			"volume": 0.15
+		},
+		{
+			"name": "Confirm",
+			"path": "./assets/sounds/sfx/UI_Menu_SFX/013_Confirm_03.wav",
+			"size": 2,
+			"volume": 0.15
+		},
+		{
+			"name": "Pause",
+			"path": "./assets/sounds/sfx/UI_Menu_SFX/092_Pause_04.wav",
+			"size": 2,
+			"volume": 0.15
+		},
+		{
+			"name": "Unpause",
+			"path": "./assets/sounds/sfx/UI_Menu_SFX/098_Unpause_04.wav",
+			"size": 2,
+			"volume": 0.15
+		},
+		{
+			"name": "Fire",
+			"path": "./assets/sounds/sfx/Atk_Magic_SFX/04_Fire_explosion_04_medium.wav",
+			"size": 2,
+			"volume": 0.5
+		}
+
+
+	]
+}
