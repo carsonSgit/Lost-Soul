@@ -1,8 +1,8 @@
-# LostSoul
+# Lost Soul
 
 
-In the JavaScript game LostSoul, you play as a brave protagonist clearing out monsters from a dark cave to protect nearby villagers. Armed with nothing but a sword, navigate treacherous terrain, 
-defeat foes, and face the ultimate challenge—the Fire Demon, in a climactic battle for the realm's peace. LostSoul invites players to become the hero villagers need in the player's adventure.
+In the JavaScript game Lost Soul, you play as a brave protagonist clearing out monsters from a dark cave to protect nearby villagers. Armed with nothing but a sword, navigate treacherous terrain, 
+defeat foes, and face the ultimate challenge—the Fire Demon, in a climactic battle for the realm's peace. Lost Soul invites players to become the hero villagers need in the player's adventure.
 
 ## Credits
 
